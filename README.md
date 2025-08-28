@@ -121,6 +121,8 @@ Visit [http://localhost:8000](http://localhost:8000) in your browser.
 
 5. Now all data can be managed by admins while users can only manage their own data.
 
+6. You can serach, filter and also export items data in excel, CSV or PDF format.
+
 ---
 
 I hope this documentation provides a clear and concise overview of the project and its features for the reviewing company.
