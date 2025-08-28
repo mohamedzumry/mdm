@@ -65,7 +65,7 @@ The Laravel + Livewire starter kit is open-sourced software licensed under the M
 
 ### 1. Clone the Repository
 
-git clone https://github.com/mohamed-zumry/mdm.git
+git clone https://github.com/mohamedzumry/mdm.git
 cd mdm
 
 
