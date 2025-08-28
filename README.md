@@ -1,16 +1,17 @@
-# Laravel + Livewire Starter Kit
+# MDM Project
 
 ## Overview
 
-This is a robust and modern Laravel application starter kit that utilizes Livewire for building dynamic, reactive, frontend UIs using PHP. The kit is designed to provide a simple and efficient way to build Laravel applications with a Livewire frontend.
+This is a robust and modern Master Data Management system built with Laravel and Livewire for managing master items, master brands, master categories, and users.
 
-## Features
+## Technologies
 
 * **Livewire 3**: The latest version of Livewire, a powerful tool for building dynamic, reactive, frontend UIs using PHP.
 * **Laravel Volt**: An optional feature that allows for the use of Volt, a templating engine for Laravel.
 * **TypeScript**: A statically typed language that helps catch errors early and improve code maintainability.
 * **Tailwind**: A popular utility-first CSS framework for building custom user interfaces.
 * **Flux UI**: A component library for building consistent and reusable UI components.
+* **Mary UI**: A livewire component library for building consistent and reusable UI components.
 
 ## Project Structure
 
@@ -22,7 +23,6 @@ The project is structured into the following main directories:
 * **public**: The public directory, containing the application's entry point and public assets.
 * **resources**: The resources directory, containing the application's views, languages, and other resources.
 * **routes**: The routes directory, containing the application's route definitions.
-* **tests**: The tests directory, containing the application's test files.
 
 ## Key Components
 
@@ -30,10 +30,11 @@ The project is structured into the following main directories:
 * **MasterBrandComponent**: A Livewire component for managing master brands.
 * **MasterCategoryComponent**: A Livewire component for managing master categories.
 * **UserComponent**: A Livewire component for managing users.
-2
+* **DashboardComponent**: A Livewire component for the dashboard.
+
 ## Authentication
 
-The application uses the WorkOS authentication system (optional).
+The application uses the default authentication system provided by Laravel.
 
 ## Dependencies
 
@@ -62,6 +63,7 @@ The Laravel + Livewire starter kit is open-sourced software licensed under the M
 ### 1. Clone the Repository
 
 git clone https://github.com/mohamedzumry/mdm.git
+
 cd mdm
 
 
