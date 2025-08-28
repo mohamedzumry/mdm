@@ -1,7 +1,3 @@
-I'll clear the README file and create a new documentation for the reviewing company.
-
-**README.md**
-
 # Laravel + Livewire Starter Kit
 
 ## Overview
